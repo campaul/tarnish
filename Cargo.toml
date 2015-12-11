@@ -1,0 +1,9 @@
+[package]
+name = "tarnish"
+version = "0.1.0"
+authors = ["Cameron Paul <cpaul37@gmail.com>"]
+
+[dependencies]
+docopt = "0.6"
+hyper = "0.7"
+rustc-serialize = "0.3"
